@@ -1,2 +1,3 @@
 ### UML-діаграма програмних класів
-![samoylov_ai-203](https://user-images.githubusercontent.com/82179757/196165439-75efc8da-1f5b-4c33-b2c5-957812d89311.jpg)
+![samoylov_ai-203 (2)](https://user-images.githubusercontent.com/82179757/196165653-78562f11-e4b6-47b3-bc69-924c6cb5400b.jpg)
+
